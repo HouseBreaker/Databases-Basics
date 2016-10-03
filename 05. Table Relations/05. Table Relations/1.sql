@@ -1,2 +1,0 @@
--- 1. One-To-One Relationship
--- Create two tables as follows. Use appropriate data types.
